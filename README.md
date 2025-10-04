@@ -1,7 +1,6 @@
 ///////////////////  
 /   Project 2     /  
 / Matthew Wilson  /  
-/ mlw0420@unt.edu /  
 /    11369458	  /  
 /  CSCE 3550.001  /  
 /     4-18-22     /  
