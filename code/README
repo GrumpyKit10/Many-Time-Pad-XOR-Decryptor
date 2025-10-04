@@ -1,0 +1,13 @@
+///////////////////
+/   Project 2     /
+/ Matthew Wilson  /
+/ mlw0420@unt.edu /
+/    11369458	  /
+/  CSCE 3550.001  /
+/     4-18-22     /
+///////////////////
+
+**To use makefile: executable is named proj2
+1. make *invokes makefile to create proj2 and .o files*
+2. ./proj2 *to run program*
+3. make clean *to clean out .o and proj2 file*
